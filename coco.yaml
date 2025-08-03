@@ -1,0 +1,11 @@
+path: ./set1  # 数据集根目录
+train: images/train  # 训练图片相对路径
+val: images/val      # 验证图片相对路径
+
+# 类别信息（请确保与实际一致）
+names:
+  0: monkey
+  1: elephant
+  2: monkey
+  3: wolf
+  4: peacock
